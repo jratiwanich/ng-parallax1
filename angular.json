@@ -29,7 +29,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/parallax-js/dist/parallax.min.js"
+            ]
           },
           "configurations": {
             "production": {
